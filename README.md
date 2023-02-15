@@ -10,8 +10,8 @@
 7. Envio de email para recuperação de senha
 ## Aviso!
 1. Crie um banco de dados local do SqlServer
-2. Execute o arquivo [a relative link](script.sql)
+2. Execute o arquivo [script.sql](script.sql)
 3. Modifique a connectionstring na classe SqlServerConfiguration
 
 ##  Projeto em execução no HOST:
-[a link](http://appcontasroberto-001-site1.dtempurl.com/)
+[http://appcontasroberto-001-site1.dtempurl.com/](http://appcontasroberto-001-site1.dtempurl.com/)
