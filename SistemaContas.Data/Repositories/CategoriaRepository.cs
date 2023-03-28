@@ -43,7 +43,7 @@ namespace SistemaContas.Data.Repositories
         public List<Categoria> GetAll()
         {
             var query = @"
-            SELECT * FROM CATEFGORIA
+            SELECT * FROM CATEGORIA
             ORDER BY NOME
            ";
 
